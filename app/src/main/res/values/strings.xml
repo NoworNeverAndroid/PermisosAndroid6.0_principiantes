@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermisosAndroid6.0</string>
+    <string name="dialog_message">Sin permiso para hacer y administrar las llamadas. No podemos hacer una llamada  de emergencia en caso necesario</string>
+    <string name="ok">OK</string>
+</resources>
